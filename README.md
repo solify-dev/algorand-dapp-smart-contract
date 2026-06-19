@@ -37,8 +37,8 @@ Follow this link for creating an account [developer.algorand.sdk](https://develo
 In the project directory, you can run:
 
 ```bash
-git clone https://github.com/BirhanuGebisa/Algorand-dapps_smart-contract.git
-cd algorand-NFTs-smartContracts
+git clone https://github.com/solify-dev/algorand-dapp-smart-contract.git
+cd algorand-dapp-smart-contract
 npm start
 ```
 Runs the app in the development mode.
@@ -59,7 +59,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### run project
 - flask run
-### Deployment
-- https://lgorand-dapps-smart-contract.herokuapp.com/login
+
 ### Author
-Birhanu Gebisa : birhanugebisa@gmail.com
+Solify : owner@solify-dev.org
